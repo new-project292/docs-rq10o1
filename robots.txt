@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-32twr2.juragan89.online/sitemap.xml
